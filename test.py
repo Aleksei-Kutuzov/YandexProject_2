@@ -7,7 +7,7 @@ import copy
 #             if i == start[0] and j == start[1]:
 #                 maze[i][j] = 0  # Start point
 #             elif i == end[0] and j == end[1]:
-#                 maze[i][j] = 0  # End point
+#                 maze[i][j] =0  # End point
 #             elif random() < density:
 #                 maze[i][j] = 1  # Wall
 #             else:
